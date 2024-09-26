@@ -1660,7 +1660,7 @@ hr {
   overflow: hidden;
   display: inline-block;
   padding: 11px 35px;
-  font-size: 14px;
+  font-size: 11px;
   line-height: 1.25;
   border: 1px solid;
   font-family: 'Poppins', sans-serif;
@@ -5225,10 +5225,8 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .section-intro .intro-description {
-  font-size: 18px;
+  font-size: 16px;
   max-width: 67%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .section-banner {
