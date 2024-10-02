@@ -1735,8 +1735,8 @@ hr {
 .button-primary,
 .button-primary:focus {
   color: #ffffff;
-  background-color: #505cfd;
-  border-color: #505cfd;
+  background-color: #2E8B57;
+  border-color: #2E8B57;
 }
 
 .button-primary:hover,
@@ -4612,7 +4612,7 @@ html.boxed body {
 }
 
 .text-primary {
-  color: #505cfd !important;
+  color: #01031c !important;
 }
 
 .text-gray-dark {
@@ -6286,7 +6286,7 @@ html.tablet .ui-to-top {
   display: inline-block;
   padding-bottom: 10px;
   color: #ffffff;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.2;
   transition: 0.25s;
   text-transform: uppercase;
