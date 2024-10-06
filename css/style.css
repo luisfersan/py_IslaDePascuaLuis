@@ -1369,7 +1369,7 @@ p + .list-marked {
 .social-links li {
   position: relative;
   text-align: center;
-  font-size: 18px;
+  font-size: 19px;
 }
 
 .social-links li:hover a {
@@ -1735,8 +1735,8 @@ hr {
 .button-primary,
 .button-primary:focus {
   color: #ffffff;
-  background-color: #2E8B57;
-  border-color: #2E8B57;
+  background-color: #2e8b57;
+  border-color: #2e8b57;
 }
 
 .button-primary:hover,
@@ -3960,8 +3960,8 @@ textarea.form-input {
   font-family: 'Poppins', sans-serif;
   color: #d7dde5;
   text-transform: uppercase;
-  margin-bottom: 15px;
-  font-size: 14px;
+  margin-bottom: 10px;
+  font-size: 15px;
   letter-spacing: 0.15em;
 }
 
@@ -4092,6 +4092,7 @@ textarea.form-input {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  margin-top: -10px;
 }
 
 .comment {
@@ -5225,8 +5226,8 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .section-intro .intro-description {
-  font-size: 16px;
-  max-width: 67%;
+  font-size: 14px;
+  max-width: 57%;
 }
 
 .section-banner {
@@ -6190,7 +6191,8 @@ html.tablet .ui-to-top {
 .navbar-contact-list li a,
 .navbar-contact-list li a:focus,
 .navbar-contact-list li a:active {
-  color: rgba(170, 178, 185, 0.5);
+  color: #FFF ;
+  font-size: 0.9em;
 }
 
 .navbar-contact-list li a:hover {
@@ -7551,7 +7553,8 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-navbar-aside .icon {
-  font-size: 18px;
+  font-size: 19px;
+  
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-navbar-main {
