@@ -56,6 +56,10 @@
   color: #ffffff;
 }
 
+#textColor{
+  color: #000000
+}
+
 a:focus,
 button:focus {
   outline: none !important;
@@ -1378,7 +1382,7 @@ p + .list-marked {
 }
 
 .social-links li a {
-  color: #818a91;
+  color: #000000;
   transition: all ease 0.35s;
 }
 
@@ -1387,7 +1391,7 @@ p + .list-marked {
   z-index: 2;
   padding-left: 45px;
 }
-
+/*No es navbar*/
 .check-list > li:before {
   font-size: 72px;
   line-height: 1;
@@ -5393,7 +5397,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-gray-dark {
-  background-color: #404044;
+  background-color: #ffffff;
 }
 
 .bg-gray-dark:not([style*='background-'])
@@ -5633,8 +5637,8 @@ html [class*='section-'].section-bottom-0 {
 }
 
 p.rights {
-  font-size: 14px;
-  color: #888888;
+  font-size: 16px;
+  color: #ffffff;
 }
 
 p.rights a {
@@ -6191,7 +6195,7 @@ html.tablet .ui-to-top {
 .navbar-contact-list li a,
 .navbar-contact-list li a:focus,
 .navbar-contact-list li a:active {
-  color: #FFF ;
+  color: #fff;
   font-size: 0.9em;
 }
 
@@ -7554,7 +7558,6 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-classic.rd-navbar-static .rd-navbar-aside .icon {
   font-size: 19px;
-  
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-navbar-main {
@@ -7711,7 +7714,7 @@ html.rd-navbar-fixed-linked .page {
   font-weight: 700;
   line-height: 30px;
   text-transform: uppercase;
-  color: #404044;
+  color: #404440;
 }
 
 .rd-search-results-live .search-list {
