@@ -480,7 +480,8 @@
       /></a>
       <footer class="section footer-classic section-sm">
         <div class="container">
-			<div id="map" style="width: 900px; height: 600px;"></div>
+          <!-- <div id="map" style="width: 900px; height: 600px;"></div> -->
+          <div id="map" style="width: 900px; height: 600px; position: relative; margin-left: 150px;" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(626px, 2px, 0px);">
 			
           <div class="row row-30">
             <div class="col-lg-1 wow fadeInLeft"></div>
