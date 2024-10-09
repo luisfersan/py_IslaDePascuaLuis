@@ -30,7 +30,7 @@ Con equipo intermultidisiplinario de la empresa Codelium se desarrolla esta proy
 
 ## Autores 👨‍💻
 
-**Fundadore, Co-fundadores, Equipo de Diseño y Equipo de Desarrollo de la empresa Codelium⚡**
+**Fundadores, Co-fundadores, Equipo de Diseño y Equipo de Desarrollo de la empresa Codelium⚡**
 
 Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfernandosanchezflorez)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
 <br>
