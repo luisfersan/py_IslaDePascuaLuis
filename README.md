@@ -2,7 +2,7 @@
 
 ## Presentación del PY
 
-![Pantalla VSCode](./images/pantallaPY.png)
+![Pantalla VSCode](./images/pantallaPY.png
 
 ## <br/>
 
