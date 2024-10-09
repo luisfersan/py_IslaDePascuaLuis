@@ -1,0 +1,1 @@
+[29-Sep-2024 15:52:14 Etc/UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home1/transf45/codelium.cl/ambiente_ux_ui/isla/bat/phpmailer/PHPMailerAutoload.php on line 45
