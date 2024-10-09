@@ -21,9 +21,8 @@ Con equipo intermultidisiplinario de la empresa Codelium se desarrolla esta proy
 
 ## Tecnologías Usadas 🛠️
 
-- **Backend:** Node.js, Express.js, File System. 🧑‍💻
-- **Frontend:** HTML, CSS, Bootstrap, Axios. 📚
-- **Almacenamiento:** Archivo JSON (repertorio.json). 🫙
+- **Backend:** PHP y JS. 🧑‍💻
+- **Frontend:** HTML, CSS, Bootstrap, Hack y Smarty. 📚
 
 ---
 
