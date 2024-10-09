@@ -322,6 +322,7 @@
             </div>
           </div>
         </div>
+<!--         
         <div class="decorate-layer">
           <div class="layer-1">
             <div
@@ -401,7 +402,7 @@
               />
             </div>
           </div>
-        </div>
+        </div> -->
       </section>
       <!--About-->
       <section
@@ -480,7 +481,7 @@
       /></a>
       <footer class="section footer-classic section-sm">
         <div class="container">
-			<div id="map" style="width: 900px; height: 600px;"></div>
+			<div id="map" style="width: 1050px; height: 600px;"></div>
 			
           <div class="row row-30">
             <div class="col-lg-1 wow fadeInLeft"></div>
