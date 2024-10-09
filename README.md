@@ -2,7 +2,7 @@
 
 ## Presentación del PY
 
-![Pantalla VSCode](./images/presentacionDesafio.png)
+![Pantalla VSCode](./images/pantallaPY.png)
 
 ## <br/>
 
@@ -25,15 +25,13 @@ Con equipo intermultidisiplinario de la empresa Codelium se desarrolla esta proy
 - **Frontend:** HTML, CSS, Bootstrap, Axios. 📚
 - **Almacenamiento:** Archivo JSON (repertorio.json). 🫙
 
-<br/>
-
 ---
 
 <br>
 
 ## Autores 👨‍💻
 
-**Fundadore, Co-fundadores, Equipo de Diseño y Equipo de Desaerrollo de la empresa Codelium⚡**
+**Fundadore, Co-fundadores, Equipo de Diseño y Equipo de Desarrollo de la empresa Codelium⚡**
 
 Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfernandosanchezflorez)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
 <br>
