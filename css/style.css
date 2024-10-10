@@ -56,8 +56,8 @@
   color: #ffffff;
 }
 
-#textColor{
-  color: #000000
+#textColor {
+  color: #000000;
 }
 
 a:focus,
@@ -4620,6 +4620,9 @@ html.boxed body {
   color: #01031c !important;
 }
 
+.text-primary h3 {
+  color: #fff !important;
+}
 .text-gray-dark {
   color: #404044;
 }
@@ -9043,4 +9046,18 @@ html.rd-navbar-fixed-linked .page {
 .layer-6 {
   top: 24%;
   left: 19.5%;
+}
+
+.header-title {
+  margin-bottom: 20px;
+  color: white;
+  line-height: 2.14286;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: 'Montserrat', serif;
+  z-index: 999;
+  margin-left: 50px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* sombra suave */
+  -webkit-text-size-adjust: none;
+  -webkit-font-smoothing: subpixel-antialiased;
 }

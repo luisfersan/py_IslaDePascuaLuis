@@ -322,87 +322,7 @@
             </div>
           </div>
         </div>
-<!--         
-        <div class="decorate-layer">
-          <div class="layer-1">
-            <div
-              class="layer"
-              data-depth=".20"
-            >
-              <img
-                src="images/parallax-item-1-563x532.png"
-                alt="image"
-                width="563"
-                height="266"
-              />
-            </div>
-          </div>
-          <div class="layer-2">
-            <div
-              class="layer"
-              data-depth=".30"
-            >
-              <img
-                src="images/parallax-item-2-276x343.png"
-                alt="image"
-                width="276"
-                height="171"
-              />
-            </div>
-          </div>
-          <div class="layer-3">
-            <div
-              class="layer"
-              data-depth=".40"
-            >
-              <img
-                src="images/parallax-item-3-153x144.png"
-                alt="image"
-                width="153"
-                height="72"
-              />
-            </div>
-          </div>
-          <div class="layer-4">
-            <div
-              class="layer"
-              data-depth=".20"
-            >
-              <img
-                src="images/parallax-item-4-69x74.png"
-                alt="image"
-                width="69"
-                height="37"
-              />
-            </div>
-          </div>
-          <div class="layer-5">
-            <div
-              class="layer"
-              data-depth=".40"
-            >
-              <img
-                src="images/parallax-item-5-72x75.png"
-                alt="image"
-                width="72"
-                height="37"
-              />
-            </div>
-          </div>
-          <div class="layer-6">
-            <div
-              class="layer"
-              data-depth=".30"
-            >
-              <img
-                src="images/parallax-item-6-45x54.png"
-                alt="image"
-                width="45"
-                height="27"
-              />
-            </div>
-          </div>
-        </div> -->
+
       </section>
       <!--About-->
       <section
@@ -471,18 +391,19 @@
       </section>
 
       <!--Footer-->
-      <a
-        class="section section-banner"
-        href="https://codelium.cl/"
-        target="_blank"
-        ><img
-          src="./images/foreground-01-3200x620.png"
-          alt="image"
-      /></a>
+
       <footer class="section footer-classic section-sm">
         <div class="container">
-			<div id="map" style="width: 1050px; height: 600px;"></div>
-			
+
+          <!-- Colopcar texto encima del mapa -->
+          <h3 class="wow fadeInLeft header-title" data-wow-delay=".3s">
+              Conoce la Isla de Pascua antes de llegar: visita lugares Imperdibles y Maravillosos
+          </h3>
+
+        <div id="map" style="width: 900px; height: 600px; position: relative; margin-left: 85px;" 
+               class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" 
+               tabindex="0"></div>
+          <div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(626px, 2px, 0px);"></div>
           <div class="row row-30">
             <div class="col-lg-1 wow fadeInLeft"></div>
             <div class="col-lg-3 col-sm-8 wow fadeInUp">
